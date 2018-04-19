@@ -41,3 +41,7 @@ var generated = vCard.generate(card);
 
 expect(generated).toEqual(raw);
 ```
+
+This project was forked from https://github.com/Heymdall/vcard
+(only one minor change was needed)
+Kudos to  Aleksandr Kitov <kitov.nn@gmail.com> for his library!
